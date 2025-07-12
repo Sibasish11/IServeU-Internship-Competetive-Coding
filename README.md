@@ -15,6 +15,9 @@ This project implements an audio player that subscribes to an MQTT topic, receiv
 - 🧵 Uses a separate thread for audio playback to avoid blocking the main MQTT loop.
 - 🔊 Plays audio files stored in a `storage/` directory using the `aplay` command.
 
+### Before you go through this i would reffer you to the Disclaimer ⚠️ section.
+### So you don't carry any other notion.
+
 ## Prerequisites 🛠️
 
 - **Linux System**: The application uses the `aplay` command, which is typically available on Linux systems. 🐧
@@ -30,8 +33,8 @@ This project implements an audio player that subscribes to an MQTT topic, receiv
 ## About the Developer 👨‍💻
 
 ### At SRB Tower,Infocity
-(./assets/iserveu.jpeg)
-### The photo above captures me in action, coding this project.
+![](/assets/iserveu.jpeg)
+### The photo above captures me in action.
 
 ## Installation ⚙️
 
