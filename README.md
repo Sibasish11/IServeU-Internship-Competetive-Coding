@@ -29,7 +29,9 @@ This project implements an audio player that subscribes to an MQTT topic, receiv
 
 ## About the Developer 👨‍💻
 
-![Developer coding](path/to/your-photo.jpg)This project was developed with passion and curiosity for MQTT and audio processing. The photo above captures me in action, coding this project.
+### At SRB Tower,Infocity
+(./assets/iserveu.jpeg)
+### The photo above captures me in action, coding this project.
 
 ## Installation ⚙️
 
